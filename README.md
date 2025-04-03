@@ -1,3 +1,3 @@
-# MasXort Landing Page
+# Masxort Landing Page
 
-Welcome to the MasXort official landing page. Built on Simplicity. Engineered to Evolve.
+Welcome to the Masxort landing page powered by Next.js and Tailwind CSS.
